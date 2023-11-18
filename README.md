@@ -6,7 +6,7 @@
   <tr>
     <td colspan="2">
       <div align="center">
-        <h1>Hi, I'm Tsarina Patnaik 👋</h1>
+        <h1>Hello, I'm Tsarina, I'm a Data Analyst in making! ✨</h1>
         <p>I'm a Data Analytics Master's student at Northeastern, graduating in Fall 2024. Passionate about turning data into actionable insights.</p>
       </div>
     </td>
@@ -14,11 +14,10 @@
   <tr>
     <td colspan="2">
       <div align="center">
-        <a href="mailto:work.tsarinapatnaik@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-        </a>
-      </div>
-    </td>
+  <a href="mailto:work.tsarinapatnaik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffddcc" alt="Email Badge" />
+  </a>
+</div>
   </tr>
   <tr>
     <td colspan="2">
@@ -52,29 +51,28 @@
 <img src="https://img.shields.io/badge/-VS_Code-ffddcc?style=flat-square&logo=Visual-Studio-Code" alt="VS Code Badge" style="height: 25px;" />
 
    
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <h2>Featured Projects</h2>
-        <!-- Add project images or gifs here -->
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <h2>Education</h2>
-        <p>M.S. in Data Analytics, Northeastern University (Expected: September 2024)</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <!-- GitHub stats and language cards -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Tsarinah&show_icons=true&theme=buefy" alt="GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsarinah&layout=compact&theme=buefy" alt="Top Languages" />
+  <!-- Other sections of your README -->
+
+<tr>
+  <td colspan="2">
+    <div align="center">
+      <!-- GitHub stats card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Tsarinah&show_icons=true&bg_color=ffddcc&icon_color=000000&text_color=000000&title_color=000000" alt="GitHub Stats" />
+    </div>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <div align="center">
+      <!-- Top Languages card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsarinah&langs_count=10&bg_color=ffddcc&text_color=000000&title_color=000000" alt="Top Languages" />
+    </div>
+  </td>
+</tr>
+
+<!-- Continue with other sections -->
+
+
       </div>
     </td>
   </tr>
