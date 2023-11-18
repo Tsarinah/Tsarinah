@@ -66,10 +66,6 @@
 </tr>
 
 <!-- Continue with other sections -->
-
-
-      </div>
-    </td>
   </tr>
   <!-- The blog post workflow section can remain unchanged -->
   <!-- Add any additional sections you like -->
