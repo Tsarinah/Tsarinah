@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Users/tsarah/Desktop/git_background.jpeg" alt="Banner Image" width="100%" />
+  <img src="https://github.com/Tsarinah/Tsarinah/blob/main/GIT_BANER.png?raw=true" alt="Banner Image" width="100%" />
 </div>
 
 <table width="100%" style="background-image: url('/Users/tsarah/Desktop/git_background.jpeg'); border-collapse: collapse;">
