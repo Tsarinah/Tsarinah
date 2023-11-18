@@ -2,22 +2,17 @@
   <img src="https://github.com/Tsarinah/Tsarinah/blob/main/GIT_BANER.png?raw=true" alt="Banner Image" width="100%" />
 </div>
 
-<table width="100%" style="background-image: url('/Users/tsarah/Desktop/git_background.jpeg'); border-collapse: collapse;">
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <h1>Hello, I'm Tsarina, I'm a Data Analyst in making! ✨</h1>
-        <p>I'm a Data Analytics Master's student at Northeastern, graduating in Fall 2024. Passionate about turning data into actionable insights.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div align="center">
+<div align="center">
+  <h1>Hello, I'm Tsarina, I'm a Data Analyst in making! ✨</h1>
+  <p>I'm a Data Analytics Master's student at Northeastern, graduating in Fall 2024. Passionate about turning data into actionable insights.</p>
+</div>
+
+<div align="center">
   <a href="mailto:work.tsarinapatnaik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffddcc" alt="Email Badge" />
   </a>
 </div>
+
   </tr>
   <tr>
     <td colspan="2">
@@ -79,3 +74,9 @@
   <!-- The blog post workflow section can remain unchanged -->
   <!-- Add any additional sections you like -->
 </table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tsarina-patnaik-209782191">
+    <img src="https://img.shields.io/badge/LinkedIn-Tsarina%20Patnaik-ffddcc?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</div>
