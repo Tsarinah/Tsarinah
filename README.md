@@ -51,6 +51,7 @@
 <tr>
   <td colspan="2">
     <div align="center">
+      <h2>Analysis</h2>
       <!-- GitHub stats card -->
       <img src="https://github-readme-stats.vercel.app/api?username=Tsarinah&show_icons=true&bg_color=ffddcc&icon_color=000000&text_color=000000&title_color=000000" alt="GitHub Stats" />
     </div>
